@@ -19,7 +19,8 @@ module.exports = client => {
     const emojis = {
         Minecraft: 'Minecraft',
         Valheim: 'Valheim',
-        WoW: 'WoW'
+        WoW: 'WoW',
+        Twitch: 'Twitch'
     }
 
     const reactions = []
